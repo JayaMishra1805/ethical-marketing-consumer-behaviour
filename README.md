@@ -11,7 +11,7 @@ The study uses primary survey data to explore how factors such as brand transpar
 - **Data collection:** Google Forms survey
 - **Sample size:** 200 respondents
 - **Data analysis tool:** Microsoft Excel
-- **Statistical methods:** Mean, median, standard deviation, and Pearson correlation
+- **Statistical methods:** Mean, median, standard deviation, Pearson correlation, and Linear Regression
 - **Data visualisation:** Excel charts
 
 ## Variables Examined
